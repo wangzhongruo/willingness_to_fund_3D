@@ -2,9 +2,9 @@
 
 Using LightGBM:
 
-1. Identify whether a user is willing to fund in 3D since the user opens the account
-2. Ranking each new users based on the predicted willingness
-3. Based on the recommended first fund amount in the mobile app, predicting whether a user will fund more than $100
+1. Identify whether a user is willing to fund in 3D since the user opens the sofi money account
+2. On a daily basis, ranking each new registered users based on the predicted willingness
+3. Based on the provided first fund amount in the mobile app, predicting whether a user will fund more than $100 for the first time
 4. Tuning the parameter by using grid search and early stopping
 
 ## Reference
