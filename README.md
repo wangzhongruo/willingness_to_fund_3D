@@ -9,3 +9,5 @@ Using LightGBM:
 
 ## Reference
 LightGBM: https://lightgbm.readthedocs.io/en/latest/
+
+Learning to Rank with LightGBM: https://medium.com/@tacucumides/learning-to-rank-with-lightgbm-code-example-in-python-843bd7b44574
