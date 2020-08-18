@@ -1,4 +1,4 @@
-# Propensity to Fund for Sofi Money Card
+# Propensity to Fund for Soofi Money Card
 
 Using LightGBM:
 
